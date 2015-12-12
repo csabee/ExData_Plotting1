@@ -1,3 +1,34 @@
+## Student introduction
+
+This repository contains a possible solution for the Coursera course: Exploratory Data Analysis, course project 1.
+
+The repository contains the following files as the solution:
+<ol>
+<li><b>README.md</b>: this markdown file you are currently reading.</li>
+<li><b>plottings.R</b>: a common function library, written by me, for this course project.</li>
+<li><b>plot1.png</b>: the first plot constructed by my R script.</li>
+<li><b>plot2.png</b>: the second plot constructed by my R script.</li>
+<li><b>plot3.png</b>: the third plot constructed by my R script.</li>
+<li><b>plot4.png</b>: the fourth plot constructed by my R script.</li>
+<li><b>plot1.R</b>: the script, that produces the first plot.</li>
+<li><b>plot2.R</b>: the script, that produces the second plot.</li>
+<li><b>plot3.R</b>: the script, that produces the third plot.</li>
+<li><b>plot4.R</b>: the script, that produces the fourth plot.</li>
+<li><b>analyze_plot.R</b>: my original solution, that produces all the four plots together.</li>
+</ol>
+
+## Notices
+
+Due to some language settings of my OS, the 2nd, 3rd, 4th plots are showing the <b>hungarian</b> shortens of thursday, friday and saturday.
+This means, that my plots, instead of showing the Th - Fr - Sa on the X-Axis labels, it shows Cs - P - Sz.
+<br/>
+Meaning:
+Thursday - Csütörtök
+Friday - Péntek
+Saturday - Szombat
+
+
+
 ## Introduction
 
 This assignment uses data from
