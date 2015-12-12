@@ -1,3 +1,11 @@
+## This R script constructs the fourth plot, as stated in the course project.
+##
+## The code uses the following libraries:
+## 1. lubridate
+##
+## The code uses the following, additional .R files (included also in the github repo)
+## as function libraries:
+## 1. plottings.R
 
 ## load the function library
 source("plottings.R")
