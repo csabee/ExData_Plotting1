@@ -20,13 +20,14 @@ The repository contains the following files as the solution:
 ## Notices
 
 Due to some language settings of my OS, the 2nd, 3rd, 4th plots are showing the <b>hungarian</b> shortens of thursday, friday and saturday.
+<br/>
 This means, that my plots, instead of showing the Th - Fr - Sa on the X-Axis labels, it shows Cs - P - Sz.
 <br/>
 Meaning:
-Thursday - Csütörtök
-Friday - Péntek
-Saturday - Szombat
-
+<br/>Thursday - Csütörtök
+<br/>Friday - Péntek
+<br/>Saturday - Szombat
+<br/>
 
 
 ## Introduction
